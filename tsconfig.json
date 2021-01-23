@@ -1,0 +1,7 @@
+{
+    "strict": true,
+    "include": [
+        "./src/ts/**/*" //Path to your source
+    ],
+    "jsx": "preserve",
+}
